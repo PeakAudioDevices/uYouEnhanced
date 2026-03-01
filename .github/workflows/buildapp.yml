@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://litter.catbox.moe/j5n0j4lgdiv0nguc.ipa"
         required: true
         type: string
       bundle_id:
